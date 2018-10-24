@@ -1,10 +1,10 @@
-package com.mynotes.basics
+package com.mynotes.getting.started
 
 
 fun main(args: Array<String>) {
-    val per1=Product("Jane",1)
-    val per2=Product("John",2)
-    val per3=Product("John",2)
+    val per1= Product("Jane", 1)
+    val per2= Product("John", 2)
+    val per3= Product("John", 2)
 
     println(per1 == per2)
     println(per2 == per3)

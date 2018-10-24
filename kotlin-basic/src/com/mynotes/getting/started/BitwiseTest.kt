@@ -1,4 +1,4 @@
-package com.mynotes.basics
+package com.mynotes.getting.started
 
 fun main(args: Array<String>) {
     val x = 0x00101101

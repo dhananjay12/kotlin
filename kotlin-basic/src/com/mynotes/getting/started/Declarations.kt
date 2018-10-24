@@ -1,4 +1,4 @@
-package com.mynotes.basics
+package com.mynotes.getting.started
 
 typealias EmployeeSet = Set<Employee>
 
