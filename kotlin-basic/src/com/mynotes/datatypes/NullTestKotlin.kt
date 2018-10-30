@@ -35,6 +35,10 @@ fun main(args: Array<String>) {
     val str8 = str7!!.toUpperCase()
     println(str8)
 
+    val str9: String? = null
+    val someString = "Not Null"
+    println(str9 == someString)
 
+    val nullableInts = arrayOfNulls<Int?>(5)
 
 }
